@@ -17,11 +17,11 @@ In today’s working environment, without a proficiency in Excel you could end u
 
 # When Excel is a win it is Spreadsheet Heaven
 
-It’s true—with more than one billion Microsoft Office users globally, Excel has become the professional standard in offices across the globe for pretty much anything that requires management of large amounts of data.
+With more than one billion Microsoft Office users, Excel is the professional standard in offices across the globe for pretty much anything that requires management of large amounts of data.
 
-But, if you think Excel is only good for making you cross-eyed while looking at a bunch of numbers and financial reports, think again.  There are a multitude of uses of Excel in business (and beyond) outside of simple spreadsheets. In fact, the potential uses are seemingly endless.
+If you think Excel is only good for making you cross-eyed while looking at a bunch of numbers and financial reports, think again. There are a multitude of uses of Excel in business (and beyond) outside of simple spreadsheets.
 
-[List of Some Excel Uses]("./Business Uses for Microsoft Excel.md")
+[In fact, the potential uses are seemingly endless]("./BusinessUsesMicrosoftExcel.md")
 
 ## Extensibility ...
 
