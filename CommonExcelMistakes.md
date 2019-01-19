@@ -4,7 +4,7 @@
 
 My Father used to tell me a knife in the hand of a murderer leads to death but a knife in the hand of a surgeon leads to life. Excel is like that knife. Ok, ok this may be a far stretch (I hope) but in both instances the same tool can lead to different outcomes.
 
-Spreadsheet design is part art and part science. It involves not only technical expertise but also attention to aesthetics. 
+Spreadsheet design is part art and part science. It involves not only technical expertise but also attention to aesthetics.
 
 There are two types of errors which can be made when working with spreadsheets: syntax and logical, to borrow nomenclature from the software development world. Syntax errors involve the disobeying of predetermined rules or structures. Those errors are typically picked up by Excel. For example mistyping a formula name or dividing by a zero automatically initiates a red flag.
 
@@ -17,12 +17,12 @@ Spreadsheets are notoriously strict with things like order of operations. If you
 A single wrong letter in a function can change its entire meaning. For instance, AVERAGE will ignore all text and false entries. AVERAGEA converts all text and false entries to zero. That one letter can totally change the outlook and values in your spreadsheet. Companies have misused functions and had wrong values in their spreadsheets for years and it caused damage of millions of dollars. If you’re using a function, then double check to make sure you’re using the right ones.
 
 ## Not copying all the cells you need
+
 When you work with spreadsheets, there can be a lot of copying and pasting. It’s a very common problem that people don’t select all the cells they need to copy and paste into the next workbook. If you don’t, you’ll have missing information. That can cause a lot of problems if it isn’t caught. Since spreadsheets can get ridiculously big, this is actually harder than it sounds. If you have 15 years of financial history and you only copy ten years of it, you may not catch that right away.
 
 ## Keep your data entry and formula cells separate
 
 Formula cells and data entry cells should never be anywhere near each other. The reason for this is relatively simple. If you put values in the formula cells that are supposed to be in the data entry cells and vice versa, then you can seriously mess up your books. When you keep them separate, you run little risk of mixing the two up and that keeps your books and your bosses happy.
-
 
 ## Save only when you need to
 
@@ -122,10 +122,50 @@ It is along the lines of that old adage “Two heads are better than one”. Hav
 
 The look and feel of a spreadsheet can add to the clarity of a report or detract from it. A spreadsheet that presents information in an unclear and stale fashion is doomed to be rendered useless. The majority of people would rather look at a graphical representation than a flood of numbers. Use that knowledge and try to roll up important information in a graphical format.
 
-## Color – That point is along the lines of aesthetics. 
+## Color – That point is along the lines of aesthetics
 
 Colors carry meaning and invoke emotions. I am not suggesting spreadsheet authors take an interior design class or study hue theory, but use this knowledge of colors in your design. This is one of the reasons that negative numbers are represented in red and with brackets in the accounting world. This is to bring attention to the figure.
- 
+
 > In short, the message here is to simplify. Many times spreadsheets are designed without the user(s) or end recipient in mind. This is very much like an oral presentation; keep your audience in mind.
+
+---
+<!-- http://it.toolbox.com/blogs/spreadsheets/12-common-spreadsheet-errors-948 -->
+
+## Some More Errors
+
+1. Always avoid hardcoding your values in the spreadsheet formulas. Only enter data into actual spreadsheet’s cells and then reference these cell values in your Excel formulas. By hard coding a value in a formula string it is not easy to spot nor pick up. What happens is that it is hidden and is forgotten. This invariably results in right this month and wrong forever.
+
+2. Another very common error is adding rows or columns that are not pickup and included in the rage of the following functions =sum, =subtotal and =average.
+
+3. Don’t mix data entry and formula areas together. Get into the practice of keeping them separate. This is an excellent discipline that pays dividends. This good practice is a big step in the process of eliminating spreadsheet errors.
+
+4. Watch out for the division by ZERO and text values problem. Excel is not forgiving with design error.
+
+5. Always save the changes that you are meant to save. Hit the save button as soon as you have complete the additions, changes or deletion. All it takes is one phone call that pulls you in another direction and you close your work-sheet to open another program and the work you did is lost. Follow the **Think – Save – Quit** logic when leave your spreadsheet workspace.
+
+6. The opposite of point 5 also snags us. That is, opening up a spreadsheet to do a quick “what if” type query and saving the ad hoc investigation over the Excel worksheet we want to keep. To avoid this error it is best to open the Excel worksheet and immediately rename it as something else. My favorite is “Junk”.
+
+7. Avoid circular references.
+
+8. If you add rows or columns to the end of named ranges make sure that you include them in the range name.
+
+9. When you delete range names or rows or columns containing these, always make sure that the names are not used in any macros or functions.
+
+10. **Never hard code** cell or range addresses into VBA macros
+
+11. If you work on someone else’s PC be aware that they may have their date settings different to yours.
+
+12. If you have an imperfect memory like mine then get into the habit of documenting you VBA macros and difficult formulas (nested or other wise). In fact, even if you have a brilliant memory, document your VBA macros and worksheet formula.
+
+Someone else will need to look at your work if you ...
+
+* Get promoted
+* Hit by a Bus
+* Retire
+* Win Lotto
+* Get a Job Elsewhere
+* Long Service Leave
+* Maternity Leave
+* Sick Day if it's important
 
 ---
