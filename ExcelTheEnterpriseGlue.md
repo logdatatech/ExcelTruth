@@ -25,18 +25,10 @@ If you think Excel is only good for making you cross-eyed while looking at a bun
 
 [In fact, the potential uses are seemingly endless](./BusinessUsesMicrosoftExcel.md)
 
-## Extensibility
+[A Short History of Excel](./ExcelMilestonesAndCapabilities.md)
 
-Let us count the ways.
+[Interoperability with Excel](./InteroperabilitywithExcel.md)
 
-- FORMULA
-- NESTED FORMULA
-- UDF
-- VBA
-- DLL
-- XLL
+[Extensibility of Excel](./ExtensibilityOfExcel.md)
 
-## Interoperability (Open Published File Format)
-
-- Python
-- Ruby
+> Copyright 2019 - LogData.Tech
