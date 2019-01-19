@@ -169,3 +169,37 @@ Someone else will need to look at your work if you ...
 * Sick Day if it's important
 
 ---
+
+<!-- http://www.bernardvukas.com/seven-common-excel-mistakes-to-avoid/ -->
+
+Excel is a mighty powerful piece of software. When it comes to spreadsheets, there’s almost nothing it can’t do. But if you’re not using it properly, you won’t be able to use the program to its full potential. No matter if you’re a seasoned user or a first-timer, there are a few Excel mistakes you might have picked up. Here are a few common ones.
+
+## 1. Not Organizing Your Spreadsheet
+
+Always lay out your data with headings in row 1 and your first data record in row 2. There are very few exceptions to this rule. If you are creating a spreadsheet you intend to use for years, or you intend to depend upon, you must lay it out this way, or you’ll soon be pulling your hair out. Ensure your workbook is kept as neat and as tidy as your office desk. It’ll free you up to be more productive in your work.
+
+## 2. Using Cell Formatting to Round Off Values
+
+If you are using cell formatting to “round” your data, don’t expect the cells that sum them to be exactly correct. If you want to round your values, and have them show correctly, a better way is to use the ‘precision as displayed’ option. A second alternative, and a slightly manual approach, is using the round formula.
+
+## 3. Using The Wrong File Type
+
+Excel is only good as the files you use with it. No matter how much effort you put into your spreadsheets, if you use a wrong file format, some Excel features simply won’t behave. Similarly, spending all morning on the most finely-crafted spreadsheet in history is of no use if you save your file in the wrong format. Always begin with the newer .xlsx format, and familiarize yourself with the Save format options.
+
+## 4. Using Excel When Another Program Will Do
+
+When it comes to working with data, Excel is designed for analysis (NOT data management and data storage). When people use Excel for data storage/management – they set themselves up for trouble. When you want to analyze data – use Excel. When you need to store/manage data – use a database, such as Microsoft Access. By simply using the correct tool for the job, it is possible to avoid so many of the mistakes listed here.
+
+## 5. Using Data As Text
+
+Getting data as text and not realizing it, then wondering why your values don’t add up right. In order for your calculations to be correct, you need to ensure numbers are correctly formatted.
+
+## 6. Hardcoding Numbers
+
+At times for one reason or another, formulas may be hardcoded with a value. However, if the spreadsheet author is still under the impression that a formula is still located there, that can have some unintended consequences.
+
+## 7. Hiding Sheets/Rows/Columns
+
+Hiding obsolete rows can be useful when there’s too much data, or your spreadsheet is just overwhelming. Keep in mind that while hiding sheets/rows/columns is not a mistake, it can be misleading. If the user modifying it is not aware of hidden items, it could have unintended consequences.
+
+---
