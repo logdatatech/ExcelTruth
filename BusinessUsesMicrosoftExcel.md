@@ -224,3 +224,110 @@ Other Advantages Include:
 - Reports can be made more visual by using charts and graphs
 
 ---
+[goskills.com/Excel/Articles/Uses-of-Excel-in-business](https://www.goskills.com/Excel/Articles/Uses-of-Excel-in-business)
+
+
+## anything numbers-related
+
+### 1. Calculating
+
+Find yourself running the same calculations over and over again? Build yourself a totally customized calculator in Excel by programming your commonly-used formulas. That way, you just need to punch in your digits and Excel will spit the answer out for you—no elbow grease required.2. Accounting
+Budget plans, forecasts, expense tracking, financial reports, loan calculators, and more. Excel was pretty much designed to meet these different accounting needs. And, considering that 89 percent of companies utilize Excel for its various accounting functions, it obviously fits the bill.
+Excel even has numerous different spreadsheet templates to make all of those processes that much easier.
+
+## 3. Charting
+Pie charts, scatter charts, line charts, bar charts, area charts, column charts—the list goes on and on. If you need to find a way to represent data in a more visual and digestible way, Excel’s ability to transform rows and columns of digits into beautiful charts is sure to become one of your favorite things about it.
+Want more information about the types of charts you can create in Excel? This article is a helpful resource.
+
+
+## 1. Inventory tracking
+
+Tracking inventory can be a headache. Fortunately, Excel can help to keep employees, business owners, or even individuals organized and on top of their inventory—before any major problems crop up.
+
+Making a plan
+Let’s move on from the numbers—there are plenty of things that Excel can help you plan and organize that don’t necessarily involve endless rows of digits.5. Calendars and schedules
+
+Need to map out a content calendar for your blog or website? Lesson plans for your classroom? A PTO schedule for you and all of your co-workers? A daily schedule for you or your family? When it comes to various calendars, Excel can be surprisingly robust.
+
+
+## 6. Seating charts
+
+From a large corporate luncheon to a wedding, arranging a seating chart can be a royal headache. Fortunately, Excel can make it a total breeze. If you’re a real whiz, you’ll be able to automatically create your seating chart using your spreadsheet of RSVPs. Need help getting this done? This article provides a detailed walkthrough of how you can create a seating chart in Excel.
+
+
+## 7. Goal planning worksheet
+
+From professional goals to fitness goals to financial goals, it helps to have something to keep you focused and on track. Enter the beauty of Excel. Using the tool, you can create various worksheets, logs, and planning documents to help you monitor your progress—and, hopefully, cross the finish line.
+
+
+## Mock-ups
+
+Excel might not be the first platform you think of when it comes to design. But, believe it or not, you can use the tool to put together various mock-ups and prototypes. In fact, it’s a surprisingly popular choice for creating website wireframes and dashboards.Getting stuff done
+Want to kick your productivity into high gear? Well, Excel can swoop in and save the day with a variety of uses that can help you tackle your tasks and to-dos with ease and organization.
+
+## Task list
+Say goodbye to your standard pen and paper to-do list. With Excel, you can make a far more robust task list—and even track your progress on those larger to-dos that are currently on your plate.
+
+
+## 10. Checklist
+Similarly, you can create a simple checklist that allows you to tick off the things you’ve purchased or accomplished—from a grocery list to a roster of to-dos for an upcoming marketing campaign.
+
+## 11. Project management charts
+
+We’ve already touched on the fact that Excel is a total beast when it comes to creating charts. And, this concept holds true when it comes to various charts for project management.
+
+From waterfall charts to manage your team’s progress to kanban style boards (just like Trello!) to keep things organized, there are tons of ways that Excel can help keep your project on track.
+
+## 12. Time logs
+
+You know that tracking time can be a huge asset to you and your productivity. While there are plenty of fancy apps and tools to help meet that need, you can think of Excel as the original tool for logging your time. And, it still serves as a suitable option today.
+
+
+## Involving other people
+Need to collect information from other people? Survey tools and forms are one option. But, rest assured, you can also create your own in Excel.
+
+### Forms
+From simple to complicated, Excel is a great option for creating forms. You can even program various drop-down menus so that users can select their choice from a pre-set list.
+
+### Quizzes
+
+Trying to test somebody else’s—or even your own—knowledge of a subject? In Excel, you can create a bank of questions and answers in one worksheet, and then instruct Excel to quiz you in another.
+
+### Surveys
+
+With a little VBA you have the ability to create a full easier than Forms Enterprise Grade survey tool.
+
+## Staying in touch
+
+Managing relationships is crucial to your success both professionally and personally. Fortunately, Excel makes it easy to keep in touch.
+
+### CRM
+
+Need a lightweight CRM to stay top of mind for your customers? You can make one in Excel. And, the best part? Building your own means it will be totally customizable. Sales Hacker also put together a nifty set of free sales excel templates you can use to help get started!
+
+### Mailing list
+
+Data doesn’t just have to involve numbers. Excel is also great at managing and sorting large amounts of names and addresses—making it the perfect solution for your invite list for that company holiday party or the mailing list for that large promotion or campaign.
+
+Using Excel, you can also mail merge—which makes it that much easier to print address labels and other necessary materials.
+You can also apply a similar concept to create things like directories, RSVP lists, and other rosters that involve a large amount of information about people.Just for fun
+
+## 17. Historical logs
+
+Whether you want to keep track of the various craft beers you’ve tasted, the workouts you’ve completed, or something else entirely, you can think of Excel as your go-to resource for keeping those things sorted and logged.
+
+## Word cloud
+
+Word clouds might not be the most scientific representations of data. But, they’re a fun (not to mention beautiful way) to gain an understanding of what words are being utilized most. You guessed it—you can create one using Excel. Here’s how to use information from Excel to create a word cloud in Wordle.
+
+## 20. Art and animations
+The capabilities of Excel likely extend far beyond what you’d initially anticipate. In fact, many people have used the tool to create some downright awesome art—from pixelated portraits to animations.
+
+## 21. Trip planner
+Have a vacation coming up? Make sure you have everything covered by creating yourself a helpful itinerary before you pack your bags and head out. Excel even has a handy trip planner template you can use to make sure you don’t miss anything (from your budget to airline information!).
+
+## Over to you
+
+This might seem like a lengthy list. But, rest assured, it barely scratches the surface of all of the different things—aside from simple spreadsheets—that Excel is capable of. From lists to charts to design mock-ups, the different uses of Excel are seemingly limitless.
+
+---
