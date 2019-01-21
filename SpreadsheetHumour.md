@@ -6,7 +6,32 @@
 
 [Does it matter if the spreadsheet is wrong ? - 2016-01-07](http://dilbert.com/strip/2016-01-07)
 
+![Dilbert Strip From 160107](./images/dt160107.gif)
+
+
+![Dilbert Strip From 040811](./images/dt040811.gif)
+![Dilbert Strip From 040812](./images/dt040812.gif)
+![Dilbert Strip From 041226](./images/dt041226.jpg)
+![Dilbert Strip From 070320](./images/dt070320.gif)
+![Dilbert Strip From 070807](./images/dt070807.gif)
+![Dilbert Strip From 070808](./images/dt070808.gif)
+![Dilbert Strip From 070809](./images/dt070809.gif)
+![Dilbert Strip From 090521](./images/dt090521.gif)
+![Dilbert Strip From 090522](./images/dt090522.gif)
+![Dilbert Strip From 110602](./images/dt110602.gif)
+![Dilbert Strip From 920907](./images/dt920907.gif)
+![Dilbert Strip From 930217](./images/dt930217.gif)
+![Dilbert Strip From 931230](./images/dt931230.gif)
+![Dilbert Strip From 950330](./images/dt950330.gif)
+![Dilbert Strip From 950813](./images/dt950813.gif)
+![Dilbert Strip From 970910](./images/dt970910.gif)
+![Dilbert Strip From 971123](./images/dt971123.gif)
+![Dilbert Strip From 981211](./images/dt981211.gif)
+![Dilbert Strip From 981212](./images/dt981212.gif)
+
 [Only Three Spreadsheet Errors - 2016-01-06](http://dilbert.com/strip/2016-01-06)
+
+![Dilbert Strip From 160106](./images/dt160106.gif)
 
 [Double Revenue by Increasing Absenteeism - 2011-06-02](http://dilbert.com/strips/comic/2011-06-02/)
 
@@ -29,6 +54,8 @@
 [The Salary Spreadsheet I - 2004-08-11](http://dilbert.com/strips/comic/2004-08-11/)
 
 [It’s a Funny Thing about Budgets - 1999-04-09](http://dilbert.com/strips/comic/1999-04-09/)
+
+![Dilbert Strip From 990409](./images/dt990409.gif)
 
 [Boss with a Spreadsheet - 1998-12-12](http://dilbert.com/strips/comic/1998-12-12/)
 
