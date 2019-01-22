@@ -1,4 +1,15 @@
+
 # Assorted Thoughts on Excel
+
+```
+"spreadsheet" **noun** definition from dictionary.com
+
+1. Accounting - a worksheet that is arranged in the manner of a mathematical matrix and contains a multicolumn analysis of related entries for easy reference on a single sheet.
+
+2. Computers  
+  a) type of software that offers the user a visual display of a simulated multicolumn worksheet and the means of using it especially for financial plans and budgets.
+  b) a single document created with this software.
+```
 
 ## In Layman’s terms, what is the difference between Access and Excel
 

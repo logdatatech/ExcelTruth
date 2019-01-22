@@ -46,14 +46,14 @@
 
 ## Eight Principles of Spreadsheet Engineering
 
-Principle 1: Best practices can have a large impact
-Principle 2: Lifecycle Planning is important
-Principle 3: A priori requirements specification is beneficial
-Principle 4: Predicting future use is important
-Principle 5: Design matters
-Principle 6: Best practices are situation-dependent
-Principle 7: Programming is a social, not an individual activity
-Principle 8: Deployment of best practices is difficult and consumes resources”
+1. Best practices can have a large impact
+2. Lifecycle Planning is important
+3. A priori requirements specification is beneficial
+4. Predicting future use is important
+5. Design matters
+6. Best practices are situation-dependent
+7. Programming is a social. not an individual activity
+8. Deployment of best practices is difficult and consumes resources”
 
 Tom Grossman, 2002 [http://arxiv.org/abs/0711.0538]
 
@@ -79,19 +79,21 @@ Tom Grossman, 2002 [http://arxiv.org/abs/0711.0538]
 
 ## Interpretation
 
-“The spreadsheet has been used as a decision support tool for a considerable number of years but still suffers from significant defects in terms of the way that they ‘inform’, or arguably ‘misinform’, decision makers. Spreadsheets, at least in the hands of the typical end user, have proved to be less effective as decision support tools than may have been expected. Although they apparently offer decision makers the ability to develop models of business problems and to test various possibilities by manipulating the data in the model, two key problem areas emerge in practice. These areas relate to errors made in the mechanical production of the spreadsheet and also to errors in the translation of the problem situation into a model that is then represented as a spreadsheet. These two causes of error can lead to a position where decision makers may act in the belief that decisions can be made with confidence on the output from the spreadsheet despite evidence to the contrary.” Banks & Monday, 2001, [http://arxiv.org/abs/0801.1856]
+“The spreadsheet has been used as a decision support tool for a considerable number of years but still suffers from significant defects in terms of the way that they **inform**, or arguably **misinform**, decision makers. 
+
+Spreadsheets, at least in the hands of the typical end user, have proved to be less effective as decision support tools than may have been expected. Although they apparently offer decision makers the ability to develop models of business problems and to test various possibilities by manipulating the data in the model, two key problem areas emerge in practice. These areas relate to errors made in the mechanical production of the spreadsheet and also to errors in the translation of the problem situation into a model that is then represented as a spreadsheet. These two causes of error can lead to a position where decision makers may act in the belief that decisions can be made with confidence on the output from the spreadsheet despite evidence to the contrary.” Banks & Monday, 2001, [http://arxiv.org/abs/0801.1856]
 
 ---
 
 ## Misleading and Dangerous
 
-“Spreadsheets appear to be a relatively intuitive tool that are perceived to be deceptively easy to use and although extensively used by organisations have often proved to be misleading at best and dangerous at worst. The spreadsheet itself has some limitations in its ability to act as a vehicle for the development of complex business models and users may be relatively naïve in the development of models. Their basis for developing the model may be based on a unique worldview, or contain deliberate or unintended biases. The model may have been deliberately tampered with to generate acceptable figures for a specific instance to preserve a perceived ‘expert’ label for the developer”. Banks & Monday, 2001, [http://arxiv.org/abs/0801.1856]
+Spreadsheets appear to be a relatively intuitive tool that are perceived to be deceptively easy to use and although extensively used by organisations have often proved to be misleading at best and dangerous at worst. The spreadsheet itself has some limitations in its ability to act as a vehicle for the development of complex business models and users may be relatively naïve in the development of models. Their basis for developing the model may be based on a unique world view, or contain deliberate or unintended biases. The model may have been deliberately tampered with to generate acceptable figures for a specific instance to preserve a perceived ‘expert’ label for the developer”. Banks & Monday, 2001, [http://arxiv.org/abs/0801.1856]
 
 ---
 
 ## Overconfidence
 
-“Despite strong evidence of widespread errors, spreadsheet developers rarely subject their spreadsheets to post-development testing to reduce errors. This may be because spreadsheet developers are overconfident in the accuracy of their spreadsheets. This conjecture is plausible because overconfidence is present in a wide variety of human cognitive domains, even among experts". Ray Panko, 2003 [http://arxiv.org/abs/0804.0941]
+“Despite strong evidence of widespread errors, spreadsheet developers rarely subject their spreadsheets to post-development testing to reduce errors. This may be because spreadsheet developers are **overconfident** in the accuracy of their spreadsheets. This conjecture is plausible because overconfidence is present in a wide variety of human cognitive domains, even among experts". Ray Panko, 2003 [http://arxiv.org/abs/0804.0941]
 
 ---
 
