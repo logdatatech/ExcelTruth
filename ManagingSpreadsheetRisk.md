@@ -25,12 +25,17 @@ of a spreadsheet.
 
 • In November 2004 natural gas prices in the USA were artificially inflated by between $200 million and $1 billion, according to the Federal Energy Regulatory Commission, because one company submitted the wrong week's gas storage figures. One explanation for the error was that the company had used the same computer file name for each week's storage balance spreadsheet report, making it easy for the wrong one to be sent.
 
-• Spreadsheets were heavily implicated in the John Rusnak scandal at Allfirst/AIB. Rusnak doctored some of his spreadsheets, so that they were not, as they should have been,
-importing information from external sources.
+• Spreadsheets were heavily implicated in the John Rusnak scandal at Allfirst/AIB. Rusnak doctored some of his spreadsheets, so that they were not, as they should have been,importing information from external sources.
 
-There are many ways in which problems can arise. Formulae may be wrong because of mistyping or faulty copying and pasting. Risky techniques are often used without appropriate
-safeguards. Spreadsheets are rarely static: changes may be made by someone who isn’t aware of all the potential knock-on effects. Users may not understand the full implications of all the
-inputs that they are changing. Time or other pressures can lead to inadequate documentation, review, and testing.
+There are many ways in which problems can arise.
+
+* Formulae may be wrong because of mistyping or faulty copying and pasting.
+* Risky techniques are often used without appropriate safeguards.
+* Spreadsheets are rarely static: changes may be made bysomeone who isn’t aware of all the potential knock-on effects.
+* Users may not understand the full implications of all the inputs that they are changing.
+* Time or other pressures can lead to **inadequate** documentation, review, and testing.
+
+Some [Bigger Blunders Here](./SpreadsheetBlunders.md).
 
 ## Preventing problems
 
