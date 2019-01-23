@@ -17,30 +17,31 @@ These limitations are so fundamental to organisations that advanced Excel or mod
 
 Many organisations will continue to beef up their policies but there’s a new view that the unique risks presented by spreadsheets/UDAs can’t be managed by traditional controls frameworks.
 
-In response, operational risk teams are embracing financial model design standards like PwC’s 15 Model Design Best Practices and the FAST Standard (which PwC Australia is associated with) as a way to improve spreadsheets and lower spreadsheet risk.
+In response, operational risk teams are embracing financial model design standards like PwC’s 15 Model Design Best Practices and the [FAST Standard](http://www.fast-standard.org/) (which PwC Australia is associated with) as a way to improve spreadsheets and lower spreadsheet risk.
 
 ## Files Per Person
 
-?
+How many spreadsheets could one individual make per year ?
 
 ## New Unique Files Per Day
 
-? New Unique Files Per Day
+New Unique Files Per Day the secret life of files.
 
 ## ROT - Redundandant,Orphaned,Trivial
 
 ### Redundant Files
 
-?
+Out of Date
+Out of Specification
 
 ### Orphaned Files
 
-?
+Nothing wrong with them, they just have zero visibility to zero users.
 
 ### Trivial Files
 
-?
+Nonsense files that should be archived off, or homed somewhere obviously off base.
 
-## Also the Humble .CSV
+## Humble .CSV The Most Commonly Exported File in history
 
-How many "Excel" Documents are there here.
+How many "Excel" Documents are there here not native eg .CSV, *.TXT, .ASC etc.
