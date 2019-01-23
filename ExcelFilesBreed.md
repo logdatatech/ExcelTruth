@@ -31,8 +31,13 @@ New Unique Files Per Day the secret life of files.
 
 ### Redundant Files
 
-Out of Date
-Out of Specification
+* Out of Date
+* Out of Specification
+* No Longer Needed
+* Duplicated Function
+* Duplication Information
+* Style/Formatting out of Date
+* Legacy File Formats
 
 ### Orphaned Files
 
