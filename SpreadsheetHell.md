@@ -2,6 +2,8 @@
 
 # Spreadsheet Hell
 
+![excel in flames](./images/excel-flames.jpg)
+
 60% of large companies feel 'Spreadsheet Hell' describes their reliance on spreadsheets
 either completely or fairly well. The same survey noted spreadsheet use at 100% of all
 respondents, the only universal technology.
@@ -37,3 +39,17 @@ what was once every organisations dirty little secret.
 [Spreadsheet Humour](./SpreadsheetHumour.md)
 
 [Quotes on Spreadsheets](./QuotesOnSpreadsheets.md)
+
+## Some More Images
+
+![bart-agrees-excel-does-need-more-than-256-columns](./images/bart-agrees-excel-does-need-more-than-256-columns.gif)
+
+![ExcelForSuperHeroesEvilGeniuses.jpg](./images/ExcelForSuperHeroesEvilGeniuses.jpg)
+
+![intro_olap.jpg](./images/intro_olap.jpg)
+
+![one-user-many-spreadsheets.jpg](./images/one-user-many-spreadsheets.jpg)
+
+![plan-it-budget-process.png](./images/plan-it-budget-process.png)
+
+![spreadsheet-hell-annotated.jpg](./images/spreadsheet-hell-annotated.jpg)
