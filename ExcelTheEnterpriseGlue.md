@@ -13,6 +13,12 @@ Excel. Chances are, that word alone inspires visions of lengthy spreadsheets, co
 
 In today’s working environment, without a proficiency in Excel you could end up in the situation below:
 
+Is Excel a Database it gets a little murky.
+[SpreadSheet Vs Database](./SpreadSheetVsDatabase.md)
+
+One way forward is for Hollow Excel or Refreshables.
+[Login Required - Hollow Excel](https://github.com/logdatatech/IdeaTree/blob/master/HollowExcel.md)
+
 ## When Excel goes Badly you go to Spreadsheet Hell
 
 ![Dilbert Comic Strips](./images/use-misuse-of-ms.excel_(Dilbert).jpg)
@@ -25,10 +31,14 @@ If you think Excel is only good for making you cross-eyed while looking at a bun
 
 [In fact, the potential uses are seemingly endless](./BusinessUsesMicrosoftExcel.md)
 
+[SpreadSheet Vs Database](./SpreadSheetVsDatbase.md)
+
 [A Short History of Excel](./ExcelMilestonesAndCapabilities.md)
 
 [Interoperability with Excel](./InteroperabilitywithExcel.md)
 
 [Extensibility of Excel](./ExtensibilityOfExcel.md)
 
-> Copyright 2019 - LogData.Tech
+
+
+> 2019 - LogData.Tech
