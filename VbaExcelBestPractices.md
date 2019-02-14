@@ -2,11 +2,7 @@
 
 <!-- http://codematic.net/excel-development/excel-vba/best-practice/overview.htm -->
 
-<!--autoauto- [Excel VBA Best Practice](#excel-vba-best-practice)auto  - [Fundamental Imperative](#fundamental-imperative)auto  - [Formal Development Process](#formal-development-process)auto  - [Spreadsheet Development Lifecycle](#spreadsheet-development-lifecycle)auto  - [Coupling](#coupling)auto  - [Fan in / fan out](#fan-in--fan-out)auto  - [Development Environment Enhancements](#development-environment-enhancements)auto  - [Design - 2 Questions, 2 Approaches](#design---2-questions-2-approaches)auto    - [2 Questions](#2-questions)auto    - [2 Approaches](#2-approaches)auto  - [Design Considerations](#design-considerations)auto  - [High Quality Code - General](#high-quality-code---general)auto    - [Naming conventions](#naming-conventions)auto  - [High Quality Code - Modules](#high-quality-code---modules)auto  - [High Quality Code - Procedures](#high-quality-code---procedures)auto  - [High Quality Code - Blocks](#high-quality-code---blocks)auto  - [High Quality Code - Variables](#high-quality-code---variables)auto  - [High Quality Code - Excel](#high-quality-code---excel)auto  - [High Quality Code - Classes](#high-quality-code---classes)auto  - [Avoiding Common Errors](#avoiding-common-errors)auto  - [Debugging and Testing](#debugging-and-testing)auto  - [Documentation Standards](#documentation-standards)auto    - [Third Party Options](#third-party-options)auto  - [VBA Code Convention for Excel VBA](#vba-code-convention-for-excel-vba)auto  - [Extending Excel](#extending-excel)auto  - [VBA Best Practice Summary](#vba-best-practice-summary)autoaut -->
-
 > (Note this advice is specific to Excel VBA in business applications
-
----
 
 ## Fundamental Imperative
 
@@ -346,7 +342,7 @@ Data: VBA, ADO, ODBC, OLAP, .net, COM, Info Bridge, XML, DDE, Web Queries, SOX S
 
 Logic: VBA, COM, .net, xll, Pivots, Filters
 
-Search the web for vast array of samples, questions, tips and tools. Don't Reinvent things unless needed.
+Search the web for vast array of samples, questions, tips and tools. **Don't Reinvent things** unless needed.
 
 ---
 
